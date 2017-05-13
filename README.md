@@ -1,2 +1,3 @@
-# sternik-weekend-artur
-artur cieply
+# sternik-weekend
+
+## Aplikacja skoleniowa grupa weekendowa
